@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="176.55269mm"
-   height="176.55269mm"
-   viewBox="0 0 176.55269 176.55269"
+   width="651.07434mm"
+   height="183.8054mm"
+   viewBox="0 0 651.07435 183.80541"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="SiegeEngineers-full.svg">
+   sodipodi:docname="SiegeEngineers-banner.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -2814,15 +2814,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1276.9106"
-     inkscape:cy="486.8739"
+     inkscape:zoom="0.175"
+     inkscape:cx="718.64854"
+     inkscape:cy="-217.03038"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
@@ -2846,7 +2846,7 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-33.483939,-45.960925)">
+     transform="translate(29.651516,-43.347466)">
     <rect
        style="opacity:1;fill:url(#linearGradient1221);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect1205"
@@ -4251,10 +4251,11 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="text">
+     inkscape:label="text"
+     transform="translate(63.135455,2.6134585)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.09722137px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient1645-5);fill-opacity:1;stroke:#666666;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.09722137px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient1645-5);fill-opacity:1;stroke:#666666;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="367.35623"
        y="88.269714"
        id="text1614"><tspan
@@ -4262,14 +4263,14 @@
          id="tspan1612"
          x="367.35623"
          y="88.269714"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';fill:url(#linearGradient1645-5);fill-opacity:1;stroke:#666666;stroke-width:0.26458332px;">Siege Engineers</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine Bold';fill:url(#linearGradient1645-5);fill-opacity:1;stroke:#666666;stroke-width:0.26458332px">Siege Engineers</tspan></text>
     <text
        id="text1618"
        y="119.10045"
        x="366.57645"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.40277672px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient1653-3);fill-opacity:1;stroke:#666666;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.40277672px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:url(#linearGradient1653-3);fill-opacity:1;stroke:#666666;stroke-width:0.13229166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';fill:url(#linearGradient1653-3);fill-opacity:1;stroke:#666666;stroke-width:0.13229166;stroke-miterlimit:4;stroke-dasharray:none;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';fill:url(#linearGradient1653-3);fill-opacity:1;stroke:#666666;stroke-width:0.13229166;stroke-miterlimit:4;stroke-dasharray:none"
          y="119.10045"
          x="366.57645"
          id="tspan1616"
